@@ -1,0 +1,16 @@
+# Node.js dependencies
+node_modules/
+JSON-API-Server/
+
+# Environment variables
+.env
+
+# IDE/Editor specific files
+.vscode/
+.idea/
+
+# Log files
+logs/
+
+# Session store
+session/
