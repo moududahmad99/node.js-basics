@@ -1,0 +1,18 @@
+{
+  "name": "random-counrty-name",
+  "version": "1.0.0",
+  "description": "This is a random country name generator.",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node.js",
+    "nodemon"
+  ],
+  "author": "Sabbir Ahmad Moudud",
+  "license": "ISC",
+  "dependencies": {
+    "random-country-name": "^1.0.3"
+  }
+}

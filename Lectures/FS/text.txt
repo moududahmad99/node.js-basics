@@ -1,0 +1,2 @@
+Life is not the best period at all. So when you try to do something, think
+writeFile(file: fs.PathOrfileDescriptor, data: string | NodeJS.ArrayBufferView, options: fs.WriteFileOptions, callback: fs.NorpraraCallback) : voidStudent
